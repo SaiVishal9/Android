@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiNotes</string>
+    <string name="info">info</string>
+    <string name="add">add</string>
+    <string name="save">save</string>
+    <string name="textview">TextView</string>
+    <string name="multi_notes">Multi Notes</string>
+    <string name="_2020_sai_vishal_kodimela">© 2020, Sai Vishal Kodimela</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="encoding">UTF-8</string>
+</resources>
