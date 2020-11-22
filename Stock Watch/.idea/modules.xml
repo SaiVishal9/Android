@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stock_Watch.iml" filepath="$PROJECT_DIR$/.idea/modules/Stock_Watch.iml" group="Stock_Watch" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Stock Watch/app" />
+    </modules>
+  </component>
+</project>
